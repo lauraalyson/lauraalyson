@@ -1,8 +1,10 @@
-👋  Hi, I’m [@lauraalyson](instagram.com/lauras.sleepy)
+Hi, I’m [@lauraalyson](instagram.com/lauras.sleepy) 👋  
 
-👀   I’m interested in ... designing 4 emerging technologies <br>
-🌱   I’m currently learning ... react.js <br>
-📫   How to reach me ... (username + "3@gmail.com") <br>
+I am a digital designer and fullstack developer based in NYC. I enjoy designing, developing, and debugging projects in emerging technologies.
 
-[Portfolio](https://lauraalyson.github.io/portfolio/) <br>
-[LinkedIn](https://www.linkedin.com/in/laura-waterbury/)
+
+Okay enough chit chat, here are the links you came for.
+
+[Portfolio](https://lauraalyson.github.io/portfolio/) <br />
+[LinkedIn](https://www.linkedin.com/in/laura-waterbury/) <br />
+[Email](mailto:lauraalyson3@gmail.com)
