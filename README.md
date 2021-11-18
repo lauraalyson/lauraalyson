@@ -3,7 +3,7 @@
 Hi, I’m [@lauraalyson](instagram.com/lauras.sleepy)
 
 
-I am a Digital Designer and Full-Stack Developer based in NYC. I enjoy designing, <Br />developing, and debugging projects in emerging technologies. Okay enough chit <Br />chat, hereare the links you came for.
+I am a Full-Stack Developer & Digital Designer based in NYC. I enjoy designing, <Br />developing, and debugging projects in emerging technologies. Okay enough chit <Br />chat, hereare the links you came for.
 
 <br />
 
