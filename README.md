@@ -3,11 +3,16 @@
 Hi, I’m [@lauraalyson](instagram.com/lauras.sleepy)
 
 
-I am a Full-Stack Developer & Digital Designer based in NYC. I enjoy designing, <Br />developing, and debugging projects in emerging technologies. Okay enough chit <Br />chat, hereare the links you came for.
+I am a Full-Stack Developer & Digital Designer based in NYC. I enjoy designing, <Br />developing, and debugging projects in emerging technologies. Okay, okay - <Br />here are the links you came for.
 
-<br />
 
 [Portfolio](https://lauraalyson.github.io/portfolio/) <br />
 [LinkedIn](https://www.linkedin.com/in/laura-waterbury/) <br />
 [Resume](https://i.imgur.com/6a5K5MI.png)<br />
 [Email](mailto:lauraalyson3@gmail.com)
+
+
+Frontend         |      Backend       |      Other
+:----------------:|:-----------------:|:-----------------:
+JavaScript, Python, React.js, React Native, jQuery, three.js, HTML, CSS, GreenSock Animation Platform (GSAP), Webpack, Babel, Bootstrap                     |     JNode.js, Express, MySQL, Django, PostgreSQL, MongoDB, Mongoose.js, Heroku, REST API         |         Git, Adobe Creative Suite, Figma, Sketch, Notion, Postman, Heroku, Netlify
+
