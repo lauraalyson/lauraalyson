@@ -3,7 +3,7 @@
 Hi, I’m [@lauraalyson](instagram.com/lauras.sleepy)
 
 
-I am a Full-Stack Developer with a designer tool belt, based in NYC. I enjoy designing, <Br />developing, and debugging projects in emerging technologies. Okay, okay - <Br />here are the links.
+I am a Full-Stack Developer based in NYC. I enjoy designing, <Br />developing, and debugging projects in emerging technologies. Okay, okay - <Br />here are the links.
 
 
 [Portfolio](https://lauraalyson.github.io/portfolio/) <br />
@@ -14,5 +14,5 @@ I am a Full-Stack Developer with a designer tool belt, based in NYC. I enjoy des
 
 Frontend         |      Backend       |      Other
 :----------------:|:-----------------:|:-----------------:
-JavaScript, Python, React.js, React Native, jQuery, three.js, HTML, CSS, GSAP, Babel, Bootstrap                     |     JNode.js, Express, MySQL, Django, PostgreSQL, MongoDB, Mongoose.js, Heroku, REST API         |         Git, Adobe Creative Suite, Figma, Sketch, Notion, Postman, Heroku, Netlify
+JavaScript, Python, React.js, React Native, jQuery, three.js, HTML, CSS, GSAP, Babel, Bootstrap                     |     Node.js, Express, MySQL, Django, PostgreSQL, MongoDB, Mongoose.js, Heroku, REST API         |         Git, Adobe Creative Suite, Figma, Sketch, Notion, Postman, Heroku, Netlify
 
