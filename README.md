@@ -14,5 +14,5 @@ I am a Full-Stack Developer based in NYC. I enjoy designing, <Br />developing, a
 
 Frontend         |      Backend       |      Other
 :----------------:|:-----------------:|:-----------------:
-JavaScript, Python, React.js, React Native, jQuery, three.js, HTML, CSS, GSAP, Babel, Bootstrap                     |     Node.js, Express, MySQL, Django, PostgreSQL, MongoDB, Mongoose.js, Heroku, REST API         |         Git, Adobe Creative Suite, Figma, Sketch, Notion, Postman, Heroku, Netlify
+JavaScript, Python, React.js, React Native, jQuery, HTML, CSS, GSAP, Bootstrap                     |     Node.js, Express, MySQL, Django, PostgreSQL, MongoDB, Mongoose.js, Heroku, REST API         |         Git, Adobe Creative Suite, Figma, Sketch, Notion, Postman, Heroku, Netlify
 
