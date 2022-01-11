@@ -7,7 +7,7 @@ Hi, I’m [@lauraalyson](instagram.com/lauras.sleepy)
 [Email](mailto:lauraalyson3@gmail.com)
 
 
-I am a Full-Stack Software Engineer, operating with a designer  tool belt to build uniquely efficient and forward-thinking projects. Currently located in New York, NY, available for remote work.
+I am a Full-Stack Developer, operating with a designer  tool belt to build uniquely efficient and forward-thinking projects. Currently located in New York, NY, available for remote work.
 
 
 Frontend         |      Backend       |      Other
