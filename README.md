@@ -1,8 +1,9 @@
-### Hi, I’m [@lauraalyson](mailto:lauraalyson3@gmail.com).
+### Hi, I’m [@lauraalyson](mailto:lauraalyson3@gmail.com). 
 
 Designer turned 🪄developer. Find me binging podcasts while tracking down the alussive missing bracket. 👀
 
-### Tech Stack 
+### Tech Stack <image src="https://media.giphy.com/media/3ov9jVajqmtzo5fWJq/giphy.gif" alt="Yellow the Pup" width="100" align="right" />
+
 
 <details>
   
@@ -27,7 +28,6 @@ Designer turned 🪄developer. Find me binging podcasts while tracking down the 
   ```Solidity``` ```Web3``` ```GraphQL``` ```D3.d (Data-Driven Documents)```
   
 </details>
-
 
 <!-- Other Formatting Option -->
 
