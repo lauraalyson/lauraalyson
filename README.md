@@ -2,8 +2,9 @@
 
 Designer turned 🪄developer. Find me binging podcasts while tracking down the alussive missing bracket. 👀
 
-### Tech Stack <image src="https://media.giphy.com/media/3ov9jVajqmtzo5fWJq/giphy.gif" alt="Yellow the Pup" width="100" align="right" />
-
+### Tech Stack 
+<!-- <image src="https://media.giphy.com/media/3ov9jVajqmtzo5fWJq/giphy.gif" alt="Yellow the Pup" width="100" align="right" />
+ -->
 
 <details>
   
