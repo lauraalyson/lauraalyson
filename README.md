@@ -26,7 +26,7 @@ Designer turned 🪄developer. Find me binging podcasts while tracking down the 
 <details>
   <summary>Learning</summary>
   
-  ```Solidity``` ```Web3``` ```GraphQL``` ```D3.d (Data-Driven Documents)```
+  ```Solidity``` ```Everything Web3``` ```GraphQL``` ```D3.js (Data-Driven Documents)```
   
 </details>
 
