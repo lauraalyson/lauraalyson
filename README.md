@@ -1,1 +1,1 @@
-Code-driven, design-minded.
+code driven, design minded.
